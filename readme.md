@@ -1,9 +1,24 @@
-React Material UI kit (only grid components & couple of others)<br />
+# Natera app
 
-***Install***<br />
-clone<br />
-npm install<br />
-npm start<br />
+Just a test app.
 
-***Comments***<br />
-- Initial state of posts was ordered by "createTime" key (as from server side response)<br />
+## Main Libraries
+
+- React Material UI kit (only grid components & couple of others)
+- Redux
+
+## Install & Run
+
+- clone repository
+- Run `npm install`
+- Run `npm start`
+
+## Demo Pictures
+
+### Dashboard Mode
+
+![Dashboard Mode](./images/dashboard-mode.png)
+
+### Edit Mode
+
+![Edit Mode](./images/edit-mode.png)
